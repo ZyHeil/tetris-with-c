@@ -1,0 +1,15 @@
+# Executables 
+*.exe
+*.out
+*.o
+*.app
+bin/
+build/
+
+# Vscode stuff
+!.vscode/tasks.json 
+!.vscode/launch.json
+
+# System stuff
+.DS_Store
+Thumbs.db
